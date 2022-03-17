@@ -22,3 +22,4 @@ This repository contains following folders and files:
 
 1. **[Google Play Store](https://github.com/harshbhandari7/Exploratory-Data-Analysis/tree/main/Google%20Play%20Store)**
 2. **[Bank Campaign](https://github.com/harshbhandari7/Exploratory-Data-Analysis/tree/main/Bank%20Campaign)**
+3. **[IMDb Movie](https://github.com/harshbhandari7/Exploratory-Data-Analysis/tree/main/IMDb%20Movie)**
